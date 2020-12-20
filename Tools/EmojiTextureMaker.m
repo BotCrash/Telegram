@@ -4,7 +4,8 @@
 //
 //  Created by Nikolay Kudashov on 16.04.14.
 //  Copyright (c) 2014 telegram. All rights reserved.
-//
+//  all Things Belongs To Telegram 
+//  Bot Cash will only Review the code 
 
 #import "AppDelegate.h"
 
